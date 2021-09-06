@@ -1,0 +1,79 @@
+
+
+header{
+    height: 100vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.712),rgba(0, 0, 0, 0.658)) ,url(..//images/11.jpg);
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    padding-top: 40px;
+   font-weight: bold;
+}
+.morsy{
+    background-color:#011b20;
+}
+.bob{
+    background-color: #021316;
+}
+.bob2{
+     background-color: #021b20;
+}
+.youtube{
+    background-color: #081f29;
+}
+hr{
+    color: white;
+    width: 300px;
+  border: white 1.5px solid;
+    margin: 0px auto 20px auto;
+}
+
+footer{
+    padding: 30px 0px;
+    background-color:rgb(0, 13, 14);
+}
+footer p{
+    color: #ddd;
+    text-align: center;
+    margin-top: 20px;
+}
+.footer-nav{
+    float: left;
+    list-style: none;
+    margin-top: 50px;
+    display: flex;
+    }
+    .footer-nav li {
+    margin-left: 30px;
+    
+    }
+    .footer-nav li a{
+        text-decoration: none;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .footer-nav li a:hover{
+        text-decoration: underline;
+     color:rgb(7, 126, 116);
+ }
+ .social-nav{
+    float: right;
+    list-style: none;
+    margin-top: 50px;
+    display: flex;
+    }
+    .social-nav li {
+    margin-left: 30px;
+    
+    }
+    .social-nav li a{
+        text-decoration: none;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .social-nav li a:hover{
+        text-decoration: underline;
+     color: rgb(7, 126, 116);
+    }
+      
